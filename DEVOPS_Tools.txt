@@ -1,0 +1,15 @@
+Here are key tools commonly used in DevOps:
+
+1.Version Control: Git, GitHub, GitLab, Bitbucket
+
+2.Continuous Integration (CI):Jenkins, Travis CI, CircleCI, GitLab CI
+
+3.Continuous Delivery/Deployment (CD): Jenkins, Spinnaker, GitLab CI, Bamboo
+
+4.Configuration Management: Ansible, Puppet, Chef, SaltStack
+
+5.Infrastructure as Code (IaC):Terraform, AWS CloudFormation, Pulumi
+
+6.Containerization: Docker, Kubernetes, OpenShift
+
+7.Monitoring & Logging:Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Nagios

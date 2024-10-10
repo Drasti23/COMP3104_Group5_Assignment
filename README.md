@@ -7,7 +7,7 @@ This is our COMP 3104 DevOps Group Assignment.
 - **Member 3:** Param Patel (101411591) - [GitHub](https://github.com/ParamAnilkumar)
 - **Member 4:** Ankitha Ralla (101411810) - [GitHub](https://github.com/ankitharalla2004)
 - **Member 5:** Karn Prajapati (101416014)- [GitHub](https://github.com/karnprajapati)
--**Member 6 :** Rushil Tamakuwala (101413662) - [GitHub](https://github.com/rushil2103)
+- **Member 6 :** Rushil Tamakuwala (101413662) - [GitHub](https://github.com/rushil2103)
 
 ## Project Description
 This repository contains the group assignment for the COMP3104 DevOps course, which focuses on applying DevOps practices such as collaborative Git workflows, branching strategies, and CI/CD integration. The project aims to implement continuous integration and deployment pipelines while maintaining effective source control.

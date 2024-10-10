@@ -1,8 +1,9 @@
-# COMP3104_Group5_Assignment
-This is our COMP 3104 DevOps Group Assignment.
+### COMP3104_Group5_Assignment
 
-Student Id : 101414422 
-Stduent Name : Om Makwana
-
-ALl the iformation has been added which was required and i have also mentioned my name and student Id
+# This is our COMP 3104 DevOps Group Assignment.
+'''
+    Student Id : 101414422 
+    Stduent Name : Om Makwana
+'''
+# ALl the iformation has been added which was required and i have also mentioned my name and student Id
 

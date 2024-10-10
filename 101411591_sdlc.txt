@@ -15,3 +15,24 @@ Continuous Improvement: DevOps encourages a culture of continuous feedback, allo
 Higher Quality and Security: With practices like continuous integration and delivery (CI/CD) and proactive security measures, DevOps ensures that the software is not only developed faster but also maintains high quality and security standards.
 
 Faster Time to Market: By streamlining development processes and improving team collaboration, organizations can reduce the overall time from conception to deployment, offering a competitive edge in rapidly evolving markets.
+The DevOps lifecycle and how DevOps works
+The DevOps lifecyle stretches from the beginning of software development through to delivery, maintenance, and security. The stages of the DevOps lifecycle are:
+
+Plan: Organize the work that needs to be done, prioritize it, and track its completion.
+
+Create: Write, design, develop and securely manage code and project data with your team.
+
+Verify: Ensure that your code works correctly and adheres to your quality standards — ideally with automated testing.
+
+Package: Package your applications and dependencies, manage containers, and build artifacts.
+
+Secure: Check for vulnerabilities through static and dynamic tests, fuzz testing, and dependency scanning.
+
+Release: Deploy the software to end users.
+
+Configure: Manage and configure the infrastructure required to support your applications.
+
+Monitor: Track performance metrics and errors to help reduce the severity and frequency of incidents.
+
+Govern: Manage security vulnerabilities, policies, and compliance across your organization.
+

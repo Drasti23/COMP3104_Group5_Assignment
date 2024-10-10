@@ -3,6 +3,8 @@ Information for CI/CD in Devops.
  CI/CD stands for Continuous Integration and Continuous Delivery (or Deployment).
 
  It is a set of practices in DevOps that automate and streamline the software development lifecycle. 
+
+ Learning CI/CD is crucial because it promotes faster development cycles, reduces manual errors, ensures higher-quality software, and enables teams to respond quickly to changing requirements.
  
  Continuous Integration (CI) involves regularly merging code changes into a shared repository, where automated testing can immediately identify issues. 
  

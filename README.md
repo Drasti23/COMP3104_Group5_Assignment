@@ -7,9 +7,13 @@ The objective of this project is to apply DevOps methodologies to improve the so
 
 Following are the group members of this assignment :
 
-Drasti Parikh      - 101419828
-Om Makwana         - 101414422
-Param Patel        - 101411591
-Ankitha Ralla      - 101411810
-Karn Prajapati     - 101416014
-Rushil Tamakuwala  - 101413662
+## Team Members
+
+    '''
+    Drasti Parikh      - 101419828
+    Om Makwana         - 101414422
+    Param Patel        - 101411591
+    Ankitha Ralla      - 101411810
+    Karn Prajapati     - 101416014
+    Rushil Tamakuwala  - 101413662
+    '''

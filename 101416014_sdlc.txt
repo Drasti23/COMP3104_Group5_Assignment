@@ -1,6 +1,0 @@
-1.Faster Software Delivery: Streamlines development and operations processes for quicker releases.
-2.Improved Collaboration: Bridges the gap between development, testing, and operations teams.
-3.Automation: Reduces manual tasks, minimizing errors and increasing efficiency.
-4.Continuous Integration & Delivery (CI/CD): Enables frequent and reliable software updates.
-5.Scalability: Helps manage infrastructure as code, making it easier to scale systems.
-6.Enhanced Product Quality: Early detection of bugs and continuous testing improve software quality.

@@ -1,0 +1,1 @@
+COMP 3104 – DevOps is a course designed to introduce students to the principles and practices of DevOps, a software development methodology that integrates development (Dev) and IT operations (Ops) to improve collaboration and productivity by automating infrastructure, workflows, and continuous delivery of software.

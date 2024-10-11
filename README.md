@@ -18,6 +18,15 @@ This repository contains the group assignment for the COMP3104 DevOps course, wh
    git clone https://github.com/YourUsername/COMP3104_Group5_Assignment.git
 
 2. Navigate to the repository folder:
+
+    cd COMP3104_Group#_Assignment
+
+3. Create and switch to your own branch:
+    git checkout -b STUDENTID-Name
+
+4. Push your branch to GitHub:
+    git push -u origin STUDENTID-Name
+
     cd COMP3104_Group5_Assignment
 
 3. Create and switch to your own branch:
@@ -25,6 +34,7 @@ This repository contains the group assignment for the COMP3104 DevOps course, wh
 
 4. Push your branch to GitHub:
     git push -u origin 101411591-Param
+
 
 5. Follow the project-specific setup instructions for installing dependencies (if applicable).
 

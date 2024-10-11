@@ -1,0 +1,1 @@
+The DevOps methodology is a software development approach that seeks to integrate collaboration and communication between the development (Dev) and operations (Ops) teams to achieve faster, more efficient and reliable software delivery.

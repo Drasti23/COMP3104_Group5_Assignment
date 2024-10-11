@@ -1,0 +1,5 @@
+COMP 3104 DevOps is a course that introduces students to DevOps practices and tools used in modern software 
+development.
+
+1. Students can expect to gain hands-on experience with popular DevOps tools and learn how to implement 
+DevOps principles to improve software development workflows and reduce time-to-market for applications.

@@ -33,4 +33,3 @@ This project uses GitHub Actions for continuous integration and deployment. The 
 
 ## Branching Strategy
 Each member is required to work on their own branch, following the naming convention STUDENTID-Name. All changes must be reviewed and merged into the main branch via pull requests to ensure code quality and prevent conflicts.
-
